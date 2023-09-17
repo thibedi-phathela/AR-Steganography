@@ -11,8 +11,6 @@ The application uses a devices camera to scan it's surroundings as if it is just
 2. Why We Used Unity:
 Unity allows you to build real-time 3-D and 2-D experiences for **Virtual Reality (VR) and Augmented Reality (AR)**, as well as for **Desktop, Web and other Mobile Devices** in the form of games, interactive simulations, etc. The platform provides developers with the Mixed and Augmented Reality Studio (MARS), which simplifies the development of AR applications. It also supports cross-platform integration with platforms such as *Vuforia, Steam VR, Google's ARCore, etc* which allows developers to experience the benefits of multiple platforms in a convenient and user-friendly way.
 
-3. Challenges Faced and Future Feataures
-
 
 ### How to Install and Use AR_Steganograpy:
 
